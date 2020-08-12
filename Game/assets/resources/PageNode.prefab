@@ -108,8 +108,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 80,
-      "height": 40
+      "width": 463.4,
+      "height": 80
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -151,9 +151,9 @@
     },
     "_enabled": true,
     "_useOriginalSize": false,
-    "_string": "嘿嘿",
-    "_N$string": "嘿嘿",
-    "_fontSize": 40,
+    "_string": "打开了新的页面\n点击下面测试按钮调用Android方法",
+    "_N$string": "打开了新的页面\n点击下面测试按钮调用Android方法",
+    "_fontSize": 30,
     "_lineHeight": 40,
     "_enableWrapText": true,
     "_N$file": null,
@@ -788,8 +788,8 @@
     },
     "_enabled": true,
     "_useOriginalSize": false,
-    "_string": "test",
-    "_N$string": "test",
+    "_string": "测试",
+    "_N$string": "测试",
     "_fontSize": 20,
     "_lineHeight": 40,
     "_enableWrapText": false,
