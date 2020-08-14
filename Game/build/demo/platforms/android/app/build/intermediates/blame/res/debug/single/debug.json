@@ -36,6 +36,10 @@
         "source": "/Users/sfmy/Documents/CocosCreatorH5ToAndroid/Game/build/demo/platforms/android/app/src/main/res/mipmap-xxhdpi-v26/ic_launcher_background.png"
     },
     {
+        "merged": "/Users/sfmy/Documents/CocosCreatorH5ToAndroid/Game/build/demo/platforms/android/app/build/intermediates/res/merged/debug/xml_network_security_config.xml.flat",
+        "source": "/Users/sfmy/Documents/CocosCreatorH5ToAndroid/Game/build/demo/platforms/android/app/src/main/res/xml/network_security_config.xml"
+    },
+    {
         "merged": "/Users/sfmy/Documents/CocosCreatorH5ToAndroid/Game/build/demo/platforms/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
         "source": "/Users/sfmy/Documents/CocosCreatorH5ToAndroid/Game/build/demo/platforms/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     },
